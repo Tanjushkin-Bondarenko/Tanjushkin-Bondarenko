@@ -1,4 +1,4 @@
-# Hi, I'm Tetiana-Bondarenko 👋
+# Hi, I'm Tetiana Bondarenko 👋
 
 Welcome to my GitHub profile!
 
