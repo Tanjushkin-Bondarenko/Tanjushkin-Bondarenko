@@ -4,9 +4,9 @@ Welcome to my GitHub profile!
 
 -  I’m currently learning html&css, sass, javaScript, typeScript, react
 - My portfolio:
-      *weather forecast in real time[https://tanjushkin-bondarenko.github.io/weather-forecast/]
-      *pizzeria website[https://tanjushkin-bondarenko.github.io/pizzeria-website-with-use-SASS/]
-      *flower shop(react)[http://192.168.0.192:3000/flowers/chrysanthemum] 
+      *weather forecast in real time([https://tanjushkin-bondarenko.github.io/weather-forecast/])
+      *pizzeria website([https://tanjushkin-bondarenko.github.io/pizzeria-website-with-use-SASS/])
+      *flower shop(react)
 -  Solving coding challenges daily to sharpen my JS logic!
       https://www.codewars.com/users/Tanjushkin-Bondarenko/badges/large
 -
