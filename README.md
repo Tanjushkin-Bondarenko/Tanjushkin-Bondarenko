@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 - My portfolio:
       *weather forecast in real time([https://tanjushkin-bondarenko.github.io/weather-forecast/])
       *pizzeria website([https://tanjushkin-bondarenko.github.io/pizzeria-website-with-use-SASS/])
-      *flower shop(react)
+      *flower shop(react) ([https://tanjushkin-bondarenko.github.io/internet_shop_flowers_on_react/
 -  Solving coding challenges daily to sharpen my JS logic!
       https://www.codewars.com/users/Tanjushkin-Bondarenko/badges/large
 -
